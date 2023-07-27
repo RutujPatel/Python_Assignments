@@ -1,0 +1,1 @@
+Memory management in Python is primarily handled by the Python runtime environment using a combination of techniques like reference counting, automatic garbage collection, and a memory allocator.
