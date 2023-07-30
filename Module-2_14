@@ -1,0 +1,3 @@
+Negative indexes in programming languages, including Python,
+allow you to access elements from the end of a sequence 
+(e.g., string, list, tuple) rather than the beginning.
