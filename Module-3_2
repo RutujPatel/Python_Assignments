@@ -1,0 +1,2 @@
+To remove the last object from a list in Python,
+you can use the pop() method with an index of -1. 
